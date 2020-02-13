@@ -4,6 +4,13 @@ AAEmu.Commons/obj/
 AAEmu.Game/obj/
 AAEmu.Stream/obj/
 
+AAEmu.LoginServer/obj/
+AAEmu.LoginServer/bin/
+AAEmu.GameServer/obj/
+AAEmu.GameServer/bin/
+AAEmu.Shared/obj/
+AAEmu.Shared/bin/
+
 .idea/
 AAEmu.Commons/bin/
 AAEmu.Game/bin/
